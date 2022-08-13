@@ -11,6 +11,7 @@ import "./assets/scss/customizer.scss";
 
 
 function App() {
+  let app = null;
   return (
     <Index />
   );
